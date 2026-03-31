@@ -114,7 +114,54 @@ Models pretrained on ImageNet (natural images) may fail on medical imaging data 
 ---
 
 ## 📸 Sample Outputs
-(Add your confusion matrix / loss curves / Grad-CAM images here)
+
+### 🧠 CNN Predictions
+<p align="center">
+  <img src="result_photos/CNNornekTahminleri.png" width="600"/>
+</p>
+
+### 🧠 EfficientNet Predictions
+<p align="center">
+  <img src="result_photos/efecientnetb3Tahmin_ornekleri.png" width="600"/>
+</p>
+
+---
+
+### 📊 Training Performance (CNN)
+<p align="center">
+  <img src="result_photos/cnn_egitim_gecmisi.png" width="600"/>
+</p>
+
+### 📊 Training Performance (EfficientNetB3)
+<p align="center">
+  <img src="result_photos/effecinetNetEgitimgecmisi.png" width="600"/>
+</p>
+
+---
+
+### 📉 Confusion Matrix (CNN)
+<p align="center">
+  <img src="result_photos/ozelCnn_karisiklikMatrisi.png" width="600"/>
+</p>
+
+### 📉 Confusion Matrix (EfficientNetB3)
+<p align="center">
+  <img src="result_photos/effecientNetKarisiklikMatrisi.png" width="600"/>
+</p>
+
+---
+
+### ⚖️ Model Comparison
+<p align="center">
+  <img src="result_photos/modelKarsilastirmasi.png" width="600"/>
+</p>
+
+---
+
+### 🧾 Sample MRI Images
+<p align="center">
+  <img src="result_photos/MRI_Goruntuleri.png" width="600"/>
+</p>
 
 ---
 
