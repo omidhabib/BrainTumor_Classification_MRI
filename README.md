@@ -168,6 +168,6 @@ Models pretrained on ImageNet (natural images) may fail on medical imaging data 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/brain-tumor-classification.git
+git clone https://github.com/omidhabib/brain-tumor-classification.git
 cd brain-tumor-classification
 pip install -r requirements.txt
